@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-
+//kfdlskf
 const config = require('../config.js');
 const post = require('./components/post/network');
 const errors = require('../network/errors');
